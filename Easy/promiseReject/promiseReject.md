@@ -29,4 +29,4 @@ try {
 
 ### Solution
 
-[Promise Reject](./promiseReject/promiseReject.js)
+[Promise Reject](./promiseReject.js)

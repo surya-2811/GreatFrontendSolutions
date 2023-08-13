@@ -39,4 +39,4 @@ fromPairs(pairs); // => { a: 1, b: 2, c: 3 }
 
 ### Solution
 
-[From Pairs](./fromPairs/fromPairs.js)
+[From Pairs](./fromPairs.js)

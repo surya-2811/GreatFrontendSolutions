@@ -35,4 +35,4 @@ incrementByOnce(2); // i is still 4 as it is not modified. The function returns 
 
 ### Solution
 
-[Once](./once/once.js)
+[Once](./once.js)

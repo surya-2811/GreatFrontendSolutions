@@ -40,4 +40,4 @@ findLastIndex(arr, (num) => num < 1, 3); // => -1
 
 ### Solution
 
-[Find Last Index](./findLastIndex/findLastIndex.js)
+[Find Last Index](./findLastIndex.js)

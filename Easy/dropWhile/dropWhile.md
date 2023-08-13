@@ -30,4 +30,4 @@ Note that Lodash's dropWhile utility also allows you to pass an optional thisArg
 
 ### Solution
 
-[Drop While](./dropWhile/dropWhile.js)
+[Drop While](./dropWhile.js)

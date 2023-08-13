@@ -40,4 +40,4 @@ difference([1, 2, 3], []); // => [1, 2, 3]
 
 ### Solution
 
-[Difference](./difference/difference.js)
+[Difference](./difference.js)

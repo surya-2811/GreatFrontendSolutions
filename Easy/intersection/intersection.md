@@ -34,4 +34,4 @@ intersection(arr1, arr2, arr3); // => [3]
 
 ### Solution
 
-[Intersection](./intersection/intersection.js)
+[Intersection](./intersection.js)

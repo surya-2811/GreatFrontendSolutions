@@ -37,4 +37,4 @@ clamp(10, -5, 5); // => 5
 
 ### Solution
 
-[Clamp](./clamp/clamp.js)
+[Clamp](./clamp.js)

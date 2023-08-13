@@ -33,4 +33,4 @@ The function should return an empty array if the array argument is empty.
 
 ### Solution
 
-[Chunk](./chunk/chunk.js)
+[Chunk](./chunk.js)

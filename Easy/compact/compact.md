@@ -30,4 +30,4 @@ compact(['hello', 123, [], {}, function () {}]); // => ['hello', 123, [], {}, fu
 
 ### Solution
 
-[Compact](./compact/compact.js)
+[Compact](./compact.js)

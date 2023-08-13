@@ -36,4 +36,4 @@ inRange(-3, -2, -6); // => true
 
 ### Solution
 
-[In Range](./inRange/inRange.js)
+[In Range](./inRange.js)

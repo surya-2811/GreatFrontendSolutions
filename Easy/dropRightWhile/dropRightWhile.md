@@ -31,4 +31,4 @@ dropRightWhile([1, 2, 3, 4, 5], (value) => value > 6); // => [1, 2, 3, 4, 5]
 
 ### Solution
 
-[Drop Right While](./dropRightWhile/dropRightWhile.js)
+[Drop Right While](./dropRightWhile.js)

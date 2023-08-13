@@ -52,4 +52,4 @@ Implement the jQuery single-character function $ which only needs to supports th
 
 ### Solution
 
-[jQuery.css](./jqueryCss/jqueryCss.js)
+[jQuery.css](./jqueryCss.js)

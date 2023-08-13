@@ -30,4 +30,4 @@ composedFn(3); // (3 + 1) * 2 - 10 => -2
 
 ### Solution
 
-[Compose](./compose/compose.js)
+[Compose](./compose.js)

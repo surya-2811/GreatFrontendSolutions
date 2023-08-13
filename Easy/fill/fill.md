@@ -35,4 +35,4 @@ Make sure to handle negative indices and out of bound indices.
 
 ### Solution
 
-[Fill](./fill/fill.js)
+[Fill](./fill.js)

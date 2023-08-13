@@ -24,4 +24,4 @@ uniqueArray([2, 1, 2]); // [2, 1]
 
 ### Solution
 
-[Unique Array](./uniqueArray/uniqueArray.js)
+[Unique Array](./uniqueArray.js)

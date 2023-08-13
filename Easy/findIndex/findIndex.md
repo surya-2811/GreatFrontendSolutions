@@ -44,4 +44,4 @@ findIndex(arr, (num) => num > 10, 3); // => -1
 
 ### Solution
 
-[Find Index](./findIndex/findIndex.js)
+[Find Index](./findIndex.js)

@@ -47,4 +47,4 @@ get(jane, 'profile.name.firstName'); // undefined
 
 ### Solution
 
-[Get](./get/get.js)
+[Get](./get.js)
