@@ -28,4 +28,4 @@ arr.myAt(-3); // undefined
 
 ### Solution
 
-[Array.prototype.at](./arrayPrototypeAt/arrayPrototypeAt.js)
+[Array.prototype.at](./arrayPrototypeAt.js)
