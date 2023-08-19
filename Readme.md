@@ -1,59 +1,58 @@
 ### Coding Problems 🚀
-
 #
 
 | Problem                                                | Difficulty |
 | ------------------------------------------------------ | ----------- |
-| [Array.prototype.at](./Easy/arrayPrototypeAt/arrayPrototype.md) | Easy |
-| [Chunk](./Easy/chunk/chunk.md) | Easy | 
-| [Clamp](./Easy/clamp/clamp.md) | Easy | 
-| [Compact](./Easy/compact/compact.md) | Easy | 
-| [Compose](./Easy/compose/compose.md) | Easy | 
-| [Difference](./Easy/difference/difference.md) | Easy | 
-| [Drop Right While](./Easy/dropRightWhile/dropRightWhile.md) | Easy | 
-| [Drop While](./Easy/dropWhile/dropWhile.md) | Easy | 
-| [Fill](./Easy/fill/fill.md) | Easy | 
-| [Find Index](./Easy/findIndex/findIndex.md) | Easy | 
-| [Find Last Index](./Easy/findLastIndex/findLastIndex.md) | Easy | 
-| [From Pairs](./Easy/fromPairs/fromPairs.md) | Easy | 
-| [Get](./Easy/get/get.md) | Easy | 
-| [In Range](./Easy/inRange/inRange.md) | Easy | 
-| [Intersection](./Easy/intersection/intersection.md) | Easy | 
-| [jquery.css](./Easy/jqueryCss/jqueryCss.md) | Easy | 
-| [Once](./Easy/once/once.md) | Easy | 
-| [Promise Reject](./Easy/promiseReject/promiseReject.md) | Easy | 
-| [Unique Array](./Easy/uniqueArray/uniqueArray.md) | Easy | 
-| [BFS](./Medium/bfs/bfs.md) | Medium |
-| [Camel Case keys](./Medium/camelCaseKeys/camelCaseKeys.md) | Medium | 
-| [ClassNames](./Medium/classNames/classNames.md) | Medium | 
-| [Curry](./Medium/curry/curry.md) | Medium | 
-| [Curry II](./Medium/curry-II/curry-II.md) | Medium | 
-| [Debounce II](./Medium/debounce-II/debounce-II.md) | Medium | 
-| [DFS](./Medium/dfs/dfs.md) | Medium | 
-| [Event Emitter](./Medium/eventEmitter/eventEmitter.md) | Medium | 
-| [Event Emitter II](./Medium/eventEmitter-II/eventEmitter-II.md) | Medium | 
-| [Flatten](./Medium/flatten/flatten.md) | Medium | 
-| [getElementsByTagName](./Medium/getElementsByTagName/getElementsByTagName.md) | Medium | 
-| [HTML Serializer](./Medium/htmlSerializer/htmlSerializer.md) | Medium | 
-| [Identical DOM Trees](./Medium/identicalDomTrees/identicalDomTrees.md) | Medium | 
-| [Intersection By](./Medium/intersectionBy/intersectionBy.md) | Medium | 
-| [Intersection With](./Medium/intersectionWith/intersectionWith.md) | Medium | 
-| [isEmpty](./Medium/isEmpty/isEmpty.md) | Medium | 
-| [jquery Class Manipulation](./Medium/jqueryClassManipulation/jqueryClassManipulation.md) | Medium | 
-| [JSON.Stringify](./Medium/jsonStringify/jsonStringify.md) | Medium | 
-| [limit](./Medium/limit/limit.md) | Medium | 
-| [Promise Merge](./Medium/promiseMerge/promiseMerge.md) | Medium | 
-| [Promise Timeout](./Medium/promiseTimeout/promiseTimeout.md) | Medium | 
-| [Promisify](./Medium/promisify/promisify.md) | Medium | 
-| [Promisify II](./Medium/promisify-II/promisify-II.md) | Medium | 
-| [Resumable Interval](./Medium/resumableInterval/resumableInterval.md) | Medium | 
-| [Squash Object](./Medium/squashObject/squashObject.md) | Medium | 
-| [Turtle](./Medium/turtle/turtle.md) | Medium | 
-| [Curry III](./Hard/curry-III/curry-III.md) | Hard | 
-| [Data Selection](./Hard/dataSelection/dataSelection.md) | Hard | 
-| [Deep Clone II](./Hard/deepClone-II/deepClone-II.md) | Hard | 
-| [JSON.Stringify II](./Hard/jsonStringify-II/jsonStringify-II.md) | Hard | 
-| [Table Of Contents](./Hard/tableOfContents/tableOfContents.md) | Hard | 
+| [Array.prototype.at](./Easy/arrayPrototypeAt/arrayPrototype.md) | <img src="https://img.shields.io/badge/Easy-brightgreen?style=for-the-badge" alt="Easy" /> |
+| [Chunk](./Easy/chunk/chunk.md) | <img src="https://img.shields.io/badge/Easy-brightgreen?style=for-the-badge" alt="Easy" /> | 
+| [Clamp](./Easy/clamp/clamp.md) | <img src="https://img.shields.io/badge/Easy-brightgreen?style=for-the-badge" alt="Easy" /> | 
+| [Compact](./Easy/compact/compact.md) | <img src="https://img.shields.io/badge/Easy-brightgreen?style=for-the-badge" alt="Easy" /> | 
+| [Compose](./Easy/compose/compose.md) | <img src="https://img.shields.io/badge/Easy-brightgreen?style=for-the-badge" alt="Easy" /> | 
+| [Difference](./Easy/difference/difference.md) | <img src="https://img.shields.io/badge/Easy-brightgreen?style=for-the-badge" alt="Easy" /> | 
+| [Drop Right While](./Easy/dropRightWhile/dropRightWhile.md) | <img src="https://img.shields.io/badge/Easy-brightgreen?style=for-the-badge" alt="Easy" /> | 
+| [Drop While](./Easy/dropWhile/dropWhile.md) | <img src="https://img.shields.io/badge/Easy-brightgreen?style=for-the-badge" alt="Easy" /> | 
+| [Fill](./Easy/fill/fill.md) | <img src="https://img.shields.io/badge/Easy-brightgreen?style=for-the-badge" alt="Easy" /> | 
+| [Find Index](./Easy/findIndex/findIndex.md) | <img src="https://img.shields.io/badge/Easy-brightgreen?style=for-the-badge" alt="Easy" /> | 
+| [Find Last Index](./Easy/findLastIndex/findLastIndex.md) | <img src="https://img.shields.io/badge/Easy-brightgreen?style=for-the-badge" alt="Easy" /> | 
+| [From Pairs](./Easy/fromPairs/fromPairs.md) | <img src="https://img.shields.io/badge/Easy-brightgreen?style=for-the-badge" alt="Easy" /> | 
+| [Get](./Easy/get/get.md) | <img src="https://img.shields.io/badge/Easy-brightgreen?style=for-the-badge" alt="Easy" /> | 
+| [In Range](./Easy/inRange/inRange.md) | <img src="https://img.shields.io/badge/Easy-brightgreen?style=for-the-badge" alt="Easy" /> | 
+| [Intersection](./Easy/intersection/intersection.md) | <img src="https://img.shields.io/badge/Easy-brightgreen?style=for-the-badge" alt="Easy" /> | 
+| [jquery.css](./Easy/jqueryCss/jqueryCss.md) | <img src="https://img.shields.io/badge/Easy-brightgreen?style=for-the-badge" alt="Easy" /> | 
+| [Once](./Easy/once/once.md) | <img src="https://img.shields.io/badge/Easy-brightgreen?style=for-the-badge" alt="Easy" /> | 
+| [Promise Reject](./Easy/promiseReject/promiseReject.md) | <img src="https://img.shields.io/badge/Easy-brightgreen?style=for-the-badge" alt="Easy" /> | 
+| [Unique Array](./Easy/uniqueArray/uniqueArray.md) | <img src="https://img.shields.io/badge/Easy-brightgreen?style=for-the-badge" alt="Easy" /> | 
+| [BFS](./Medium/bfs/bfs.md) | <img src="https://img.shields.io/badge/Medium-FECC00?style=for-the-badge" alt="Medium" /> |
+| [Camel Case keys](./Medium/camelCaseKeys/camelCaseKeys.md) | <img src="https://img.shields.io/badge/Medium-FECC00?style=for-the-badge" alt="Medium" /> | 
+| [ClassNames](./Medium/classNames/classNames.md) | <img src="https://img.shields.io/badge/Medium-FECC00?style=for-the-badge" alt="Medium" /> | 
+| [Curry](./Medium/curry/curry.md) | <img src="https://img.shields.io/badge/Medium-FECC00?style=for-the-badge" alt="Medium" /> | 
+| [Curry II](./Medium/curry-II/curry-II.md) | <img src="https://img.shields.io/badge/Medium-FECC00?style=for-the-badge" alt="Medium" /> | 
+| [Debounce II](./Medium/debounce-II/debounce-II.md) | <img src="https://img.shields.io/badge/Medium-FECC00?style=for-the-badge" alt="Medium" /> | 
+| [DFS](./Medium/dfs/dfs.md) | <img src="https://img.shields.io/badge/Medium-FECC00?style=for-the-badge" alt="Medium" /> | 
+| [Event Emitter](./Medium/eventEmitter/eventEmitter.md) | <img src="https://img.shields.io/badge/Medium-FECC00?style=for-the-badge" alt="Medium" /> | 
+| [Event Emitter II](./Medium/eventEmitter-II/eventEmitter-II.md) | <img src="https://img.shields.io/badge/Medium-FECC00?style=for-the-badge" alt="Medium" /> | 
+| [Flatten](./Medium/flatten/flatten.md) | <img src="https://img.shields.io/badge/Medium-FECC00?style=for-the-badge" alt="Medium" /> | 
+| [getElementsByTagName](./Medium/getElementsByTagName/getElementsByTagName.md) | <img src="https://img.shields.io/badge/Medium-FECC00?style=for-the-badge" alt="Medium" /> | 
+| [HTML Serializer](./Medium/htmlSerializer/htmlSerializer.md) | <img src="https://img.shields.io/badge/Medium-FECC00?style=for-the-badge" alt="Medium" /> | 
+| [Identical DOM Trees](./Medium/identicalDomTrees/identicalDomTrees.md) | <img src="https://img.shields.io/badge/Medium-FECC00?style=for-the-badge" alt="Medium" /> | 
+| [Intersection By](./Medium/intersectionBy/intersectionBy.md) | <img src="https://img.shields.io/badge/Medium-FECC00?style=for-the-badge" alt="Medium" /> | 
+| [Intersection With](./Medium/intersectionWith/intersectionWith.md) | <img src="https://img.shields.io/badge/Medium-FECC00?style=for-the-badge" alt="Medium" /> | 
+| [isEmpty](./Medium/isEmpty/isEmpty.md) | <img src="https://img.shields.io/badge/Medium-FECC00?style=for-the-badge" alt="Medium" /> | 
+| [jquery Class Manipulation](./Medium/jqueryClassManipulation/jqueryClassManipulation.md) | <img src="https://img.shields.io/badge/Medium-FECC00?style=for-the-badge" alt="Medium" /> | 
+| [JSON.Stringify](./Medium/jsonStringify/jsonStringify.md) | <img src="https://img.shields.io/badge/Medium-FECC00?style=for-the-badge" alt="Medium" /> | 
+| [limit](./Medium/limit/limit.md) | <img src="https://img.shields.io/badge/Medium-FECC00?style=for-the-badge" alt="Medium" /> | 
+| [Promise Merge](./Medium/promiseMerge/promiseMerge.md) | <img src="https://img.shields.io/badge/Medium-FECC00?style=for-the-badge" alt="Medium" /> | 
+| [Promise Timeout](./Medium/promiseTimeout/promiseTimeout.md) | <img src="https://img.shields.io/badge/Medium-FECC00?style=for-the-badge" alt="Medium" /> | 
+| [Promisify](./Medium/promisify/promisify.md) | <img src="https://img.shields.io/badge/Medium-FECC00?style=for-the-badge" alt="Medium" /> | 
+| [Promisify II](./Medium/promisify-II/promisify-II.md) | <img src="https://img.shields.io/badge/Medium-FECC00?style=for-the-badge" alt="Medium" /> | 
+| [Resumable Interval](./Medium/resumableInterval/resumableInterval.md) | <img src="https://img.shields.io/badge/Medium-FECC00?style=for-the-badge" alt="Medium" /> | 
+| [Squash Object](./Medium/squashObject/squashObject.md) | <img src="https://img.shields.io/badge/Medium-FECC00?style=for-the-badge" alt="Medium" /> | 
+| [Turtle](./Medium/turtle/turtle.md) | <img src="https://img.shields.io/badge/Medium-FECC00?style=for-the-badge" alt="Medium" /> | 
+| [Curry III](./Hard/curry-III/curry-III.md) | <img src="https://img.shields.io/badge/Hard-F40D12?style=for-the-badge" alt="Hard" /> | 
+| [Data Selection](./Hard/dataSelection/dataSelection.md) | <img src="https://img.shields.io/badge/Hard-F40D12?style=for-the-badge" alt="Hard" /> | 
+| [Deep Clone II](./Hard/deepClone-II/deepClone-II.md) | <img src="https://img.shields.io/badge/Hard-F40D12?style=for-the-badge" alt="Hard" /> | 
+| [JSON.Stringify II](./Hard/jsonStringify-II/jsonStringify-II.md) | <img src="https://img.shields.io/badge/Hard-F40D12?style=for-the-badge" alt="Hard" /> | 
+| [Table Of Contents](./Hard/tableOfContents/tableOfContents.md) | <img src="https://img.shields.io/badge/Hard-F40D12?style=for-the-badge" alt="Hard" /> | 
 
 
 #
