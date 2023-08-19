@@ -4,7 +4,7 @@ const SOUTH = 2;
 const WEST = 3;
 const NUMBER_OF_CARDINAL_DIRECTIONS = 4;
 
-export default class Turtle {
+ class Turtle {
   constructor() {
     this.x = 0;
     this.y = 0;

@@ -1,5 +1,7 @@
 ### Coding Problems 🚀
 
+#
+
 | Problem                                                | Difficulty |
 | ------------------------------------------------------ | ----------- |
 | [Array.prototype.at](./Easy/arrayPrototypeAt/arrayPrototype.md) | Easy |
@@ -47,6 +49,11 @@
 | [Resumable Interval](./Medium/resumableInterval/resumableInterval.md) | Medium | 
 | [Squash Object](./Medium/squashObject/squashObject.md) | Medium | 
 | [Turtle](./Medium/turtle/turtle.md) | Medium | 
+| [Curry III](./Hard/curry-III/curry-III.md) | Hard | 
+| [Data Selection](./Hard/dataSelection/dataSelection.md) | Hard | 
+| [Deep Clone II](./Hard/deepClone-II/deepClone-II.md) | Hard | 
+| [JSON.Stringify II](./Hard/jsonStringify-II/jsonStringify-II.md) | Hard | 
+| [Table Of Contents](./Hard/tableOfContents/tableOfContents.md) | Hard | 
 
 
 #

@@ -37,7 +37,7 @@ class jQuery {
   }
 }
 
-export default function $(element) {
+ function $(element) {
   return new jQuery(element);
 }
 
