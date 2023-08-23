@@ -1,6 +1,8 @@
 ### Coding Problems 🚀
 #
 
+This repository compiles solutions of the coding challenges of [GreatFrontend Website](https://www.greatfrontend.com/prepare/coding).
+
 | Problem                                                | Difficulty |
 | ------------------------------------------------------ | ----------- |
 | [Array.prototype.at](./Easy/arrayPrototypeAt/arrayPrototype.md) | <img src="https://img.shields.io/badge/Easy-brightgreen?style=for-the-badge" alt="Easy" /> |
