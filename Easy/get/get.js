@@ -1,24 +1,13 @@
-/**
- * @param {Object} objectParam
- * @param {string|Array<string>} pathParam
- * @param {*} [defaultValue]
- * @return {*}
- */
-
-function get(objectParam, pathParam, defaultValue) {
-  const path = Array.isArray(pathParam) ? pathParam : pathParam.split('.');
-
-  let index = 0;
-  let length = path.length;
-  let object = objectParam;
-
-  while (object != null && index < length) {
-    object = object[String(path[index])];
-    index++;
+function get(object, path) {
+  const keys = path.split('.');
+  let current = object;
+  for(let key of keys){
+    if(current === undefined || current === null){
+      return undefined
+    }
+    current = current[key]
   }
-
-  const value = index && index === length ? object : undefined;
-  return value !== undefined ? value : defaultValue;
+  return current;
 }
 
 
@@ -37,6 +26,6 @@ const jane = {
   },
 };
 
-function getFirstName(user) {
-  return user.profile.name.firstName;
-}
+console.log(get(john, 'profile.name.firstName')); // 'John'
+console.log(get(john, 'profile.gender')); // 'Male'
+console.log(get(jane, 'profile.name.firstName')); // undefined
