@@ -4,17 +4,17 @@
  */
 
 function once(func) {
-    let isCalled = false;
-    let value;
-  
-    return function (...args) {
-      if (!isCalled) {
-        value = func.apply(this, args);
-        isCalled = true;
-      }
-  
-      return value;
-    };
+  let called = false;
+  let value;
+  return function(...args){
+   
+    if(!called){
+      value = func.apply(this, args)
+      called = true;
+    }
+
+    return value
+  }
 }
 
 let i = 1;
@@ -25,9 +25,9 @@ function incrementBy(value) {
 }
 
 const incrementByOnce = once(incrementBy);
-incrementByOnce(2); // i is now 3; The function returns 3.
-incrementByOnce(3); // i is still 3; The function returns the result of the first invocation, which is 3.
+console.log(incrementByOnce(2)); // i is now 3; The function returns 3.
+console.log(incrementByOnce(3)); // i is still 3; The function returns the result of the first invocation, which is 3.
 i = 4;
-incrementByOnce(2); // i is still 4 as it is not modified. The function returns the result of the first invocation, which is 3.
+console.log(incrementByOnce(2)); // i is still 4 as it is not modified. The function returns the result of the first invocation, which is 3.
 
   
